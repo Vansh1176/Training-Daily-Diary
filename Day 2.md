@@ -394,13 +394,3 @@ Output
 1  Priya   81.5
 2   Aman   78.0
 
-
-# Key Takeaways
-
-* Learned the basics and features of Python.
-* Understood different Python data types with examples.
-* Explored Python data structures such as List, Tuple, Set, and Dictionary.
-* Learned about Pandas Series and DataFrame for data analysis.
-* Understood the concept and stages of a data pipeline.
-* Studied data transformation techniques used for preparing data before analysis and machine learning.
-
